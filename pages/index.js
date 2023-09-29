@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import videoLinks from './videolinks'
+import videoLinks from '../components/videolinks'
 import { useState } from 'react'
 
 const Home = () => {
