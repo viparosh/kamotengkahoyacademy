@@ -35,12 +35,16 @@ const videoLinks = [
       'https://drive.google.com/file/d/1V2C9pOhR-xRhu_7rdjmKbuv8-M8Tv-FY/preview',
   },
   {
+    name: 'Episode 8 - Metaphysics',
+    src: 'zzz',
+  },
+  {
     name: 'Episode 9 - Socrates',
     src:
       'https://drive.google.com/file/d/1_aef1W3xx7bpHzYmRNjcuy3xyVhMPWxS/preview',
   },
   {
-    name: 'Episode 10 - Cynics',
+    name: 'Episode 10 - Socratic Themes',
     src:
       'https://drive.google.com/file/d/1a7nl9EKUR3WK1AB99FiIi0-_Y1OXFwl1/preview',
   },
