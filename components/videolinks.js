@@ -40,6 +40,11 @@ const videoLinks = [
       'https://drive.google.com/file/d/1dzZgyyUme66xDaWEBs8STpIAwG7prcIU/preview',
   },
   {
+    name: 'Episode 8B - Metaphysics',
+    src:
+      'https://drive.google.com/file/d/1eGX0hjsJqJ7rYl2gb_WuO8MrfuEsPJUg/preview',
+  },
+  {
     name: 'Episode 9 - Socrates',
     src:
       'https://drive.google.com/file/d/1_aef1W3xx7bpHzYmRNjcuy3xyVhMPWxS/preview',
